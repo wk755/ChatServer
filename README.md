@@ -9,11 +9,4 @@ rm -rf *
 cmake ..
 make
 
-# 技术栈
-- 编程语言：C++  
-- 框架/库：muduo、JSON  
-- 数据库：Redis、MySQL  
-- 构建工具：CMake、Shell 脚本  
-- 负载均衡：Nginx TCP  
-- 开发环境：VSCode 远程 Linux 开发  
-
+### 技术栈
